@@ -78,6 +78,7 @@ Disabled specific services for testing
 Created custom firewall rule
 
 Verified blocked traffic behavior
+
 4️⃣ BitLocker Implementation
 
 Enabled BitLocker encryption
