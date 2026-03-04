@@ -5,6 +5,7 @@ Endpoint Security & System Hardening Lab
 This lab focused on implementing endpoint security controls and applying system hardening best practices within a Windows environment. The objective was to simulate real-world IT support and security tasks involving user access control, firewall configuration, malware protection, and patch management.
 
 The lab reinforced foundational cybersecurity concepts relevant to IT support roles.
+
 🛠 Technologies Used
 
 Windows 10 Virtual Machine
