@@ -126,6 +126,7 @@ Verification: Reviewed protection history
 
 Test: Attempted software install as standard user
 Result: Blocked due to insufficient privileges
+
 🔐 Security Principles Applied
 
 Least Privilege
